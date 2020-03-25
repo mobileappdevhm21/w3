@@ -39,7 +39,7 @@ The timer can either infinitely count up or count down, also think maybe about a
 
 Example how the app could look like:
 <p align="center">
-  <img style=max-width: 30; src="https://github.com/mobileappdevhm20/w3/blob/master/doc/timer_example.png">
+  <img width="337" height="600" src="https://github.com/mobileappdevhm20/w3/blob/master/doc/timer_example.png">
 </p>
 
 ## Git basics
