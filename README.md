@@ -33,11 +33,14 @@ The app should also have the following features:
 * If you flip the phone the timer value should not be reset
 * The countdown should also be logged to the LogCat (Tipp: Use Timber as suggested in the udacity course or codelabs material)
 
+The timer can either infinitely count up or count down, also think maybe about a limit!
+
 !!! Do not forget commit and push your changes AND link your repository in moodle
 
 Example how the app could look like:
-![example_app](https://github.com/mobileappdevhm20/w3/blob/master/doc/timer_example.png
-)
+<p align="center">
+  <img style=max-width: 30; src="https://github.com/mobileappdevhm20/w3/blob/master/doc/timer_example.png">
+</p>
 
 ## Git basics
 The basics are for console users. There are also buttons for these commands in Android-Studio.
