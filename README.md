@@ -36,7 +36,7 @@ The app should also have the following features:
 !!! Do not forget commit and push your changes AND link your repository in moodle
 
 Example how the app could look like:
-![example_app](https://d17h27t6h515a5.cloudfront.net/topher/2017/March/58bf00e7_todos/todos.png
+![example_app](https://github.com/mobileappdevhm20/w3/blob/master/doc/timer_example.png
 )
 
 ## Git basics
