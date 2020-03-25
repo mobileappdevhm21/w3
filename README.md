@@ -35,7 +35,7 @@ The app should also have the following features:
 
 The timer can either infinitely count up or count down, also think maybe about a limit!
 
-!!! Do not forget commit and push your changes AND link your repository in moodle
+!!! Do not forget to commit and push your changes AND link your repository in moodle !!!
 
 Example how the app could look like:
 <p align="center">
@@ -83,7 +83,7 @@ Further [reading](https://dev.to/jacobherrington/how-to-write-useful-commit-mess
 ## Any further questions?
 * Make posts in the [moodle](https://moodle.hm.edu) course of mobile applications
 * Email the student assistant (tutor) of this course: <jeremias.wiedmann@hm.edu>
-* Email the professir of this course: <gudrun.socher@hm.edu>
+* Email the professor of this course: <gudrun.socher@hm.edu>
 
 
 
