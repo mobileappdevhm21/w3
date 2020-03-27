@@ -1,41 +1,38 @@
-W3 Assignment - Timer
+Week 3 Assignment - Timer
 =====================
-This is assignment 3 of the 'mobile applications' course at 'university of applied sciences munich'.
+This is assignment 3 of the 'mobile application development' course at Munich University of Applied Sciences.
 
 ## Basics for this assignment
-Read either on [udacity course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
-and follow lesson 4 'Activity & Fragment Lifecycle'.
-You also can read [04.1 and 04.2](https://codelabs.developers.google.com/android-kotlin-fundamentals/)
-Go to [https://classroom.github.com/a/ljZBw4Ir](https://classroom.github.com/a/ljZBw4Ir) and accept this week's assignment.
-There are no style guide-rules how the app has to look like, so feel free to experiment.
+Follow lesson 4 'Activity & Fragment Lifecycle' in the [udacity course](https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012)
+or read [04.1 and 04.2](https://codelabs.developers.google.com/android-kotlin-fundamentals/) in Google codelabs.
 
-## Working with the Course Code
+
+## What to do with this repository
 
 The basic steps are:
 
-1. Clone the repo
-2. Create your own branch, name it e.g. devlope
-Tipp: Name your developement branch according to the ticket or feature you are working on
-3. Read the TODOs and assignment guideline on www.moodle.hm.edu and further down below
-4. Start coding and have fun
+1. Clone the repository
+2. You can create your own development branch or work with the master branch. 
+3. Read the assignment steps on [Moodle Assignment 'Week 3 - Lesson 4 of online course'](https://moodle.hm.edu/mod/assign/view.php?id=421784) or down below.
+4. Start coding and have fun.
 
-## Requirements
-Create an application with a timer where you can do the following:
-* Show the currently updated timer value in the activity
-* Set the start value for the timer (See the dialog fragment in the code or think about an own idea)
-* Start the timer via a button
-* Pause the timer via a button
-* Stop the timer via a button and set the timer back to its start value
+## Assignment
+Create an app with a timer. Your app has the following functionality:
+* There is a timer in the main activity. The main activity shows the updating timer value. 
+* The user can set a start value for the timer (see the dialog fragment in the starter code or use your design).
+* Start the timer with a button
+* Pause the timer with a button
+* Stop the timer with a button and reset the timer back to its start value
 
 The app should also have the following features:
-* If you switch the app to the background the timer should pause
-* If you bring the app to the foreground the timer should continue where it was paused
-* If you flip the phone the timer value should not be reset
-* The countdown should also be logged to the LogCat (Tipp: Use Timber as suggested in the udacity course or codelabs material)
+* The timer pauses if you send the app to the background.
+* The timer continues where it was paused if you bring the app back to the foreground.
+* Flipping your phone does not reset the timer.  
+* Log the counting timer value in LogCat (Tipp: Use Timber as suggested in the udacity course or the codelabs material)
 
-The timer can either infinitely count up or count down, also think maybe about a limit!
+The timer can either indefinitely count up or indefinitely count down. Think about stopping the timer when it makes sense.
 
-!!! Do not forget to commit and push your changes AND link your repository in moodle !!!
+!!! Do not forget to commit and push your changes AND submit the link to your repository in Moodle!!!
 
 Example how the app could look like:
 <p align="center">
@@ -75,13 +72,13 @@ For interested command-line users read [this](https://git-scm.com/doc)
 
 ### How to make useful git messages (git commit -m "<message>)
 * Do not make it longer than 50 characters
-* Describe what you changed
-* Start with a ver e.g. Added, Fixed, Removed, etc.
-* Stick to either present or past tense overall your commits
-Further [reading](https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9)
+* Describe what you have changed
+* Start with a verb e.g. Added, Fixed, Removed, etc.
+* Stick to either present or past tense over all your commits.
+Further [reading](https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9).
 
-## Any further questions?
-* Make posts in the [moodle](https://moodle.hm.edu) course of mobile applications
+## More questions?
+* Make posts in the [moodle](https://moodle.hm.edu) forums of mobile application development.
 * Email the student assistant (tutor) of this course: <jeremias.wiedmann@hm.edu>
 * Email the professor of this course: <gudrun.socher@hm.edu>
 
