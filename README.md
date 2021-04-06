@@ -77,10 +77,6 @@ For interested command-line users read [this](https://git-scm.com/doc)
 * Stick to either present or past tense over all your commits.
 Further [reading](https://dev.to/jacobherrington/how-to-write-useful-commit-messages-my-commit-message-template-20n9).
 
-## More questions?
-* Make posts in the [moodle](https://moodle.hm.edu) forums of mobile application development.
-* Email the student assistant (tutor) of this course: <jeremias.wiedmann@hm.edu>
-* Email the professor of this course: <gudrun.socher@hm.edu>
 
 
 
